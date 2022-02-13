@@ -1,0 +1,10 @@
+^D:\CODINGCHALLENGE\CODINGCHALLENGE\BUILD\CMAKEFILES\9220AA178148BC1633BB9F4585EDF2F2\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\CMake\bin\cmake.exe" -SD:/codingChallenge/codingChallenge -BD:/codingChallenge/codingChallenge/Build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/codingChallenge/codingChallenge/Build/CodingChallenge.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/codingChallenge/codingChallenge/Build/CMakeFiles/CodingChallenge.dir
+D:/codingChallenge/codingChallenge/Build/CMakeFiles/ALL_BUILD.dir
+D:/codingChallenge/codingChallenge/Build/CMakeFiles/ZERO_CHECK.dir

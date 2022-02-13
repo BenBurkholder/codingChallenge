@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\codingChallenge\codingChallenge\main.cpp(13): warning C4715: 'mathFunction': not all control paths return a value
+  CodingChallenge.vcxproj -> D:\codingChallenge\codingChallenge\Build\Debug\CodingChallenge.exe
